@@ -178,9 +178,11 @@ Root Level (22 files):
 - Responsibilities: Overall coordination, AI development, project management
 
 **Pranav Dara** - System Architect & Backend Developer
+- Email: W0879046@myscc.ca
 - Responsibilities: Architecture design, Flask backend, database, CI/CD
 
 **Sandeep Reddy Manthena** - Frontend & Security Developer
+- Email: W0874456@myscc.ca
 - Responsibilities: React frontend, UI/UX, security, AWS deployment
 
 ---

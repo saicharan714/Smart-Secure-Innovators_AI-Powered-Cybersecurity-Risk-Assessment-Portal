@@ -385,10 +385,30 @@ Project Manager:
   GitHub: saicharan714
   Role: Overall coordination, AI development, project management
 
+Team Members:
+  1. Pranav Dara
+     Email: W0879046@myscc.ca
+     Role: System Architect & Backend Developer
+     Responsibilities: Architecture, Flask API, Database, CI/CD
+
+  2. Sandeep Reddy Manthena
+     Email: W0874456@myscc.ca
+     Role: Frontend Developer & Security Specialist
+     Responsibilities: React frontend, UI/UX, Security, AWS deployment
+
 GitHub Repository:
   URL: https://github.com/saicharan714/Smart-Secure-Innovators_...
   Type: PUBLIC (accessible to all)
   Status: Active, 12 commits pushed
+
+Collaboration Tools:
+  - GitHub Repository: SmartSecureInnovators_AIRiskAssessmentPortal
+  - Project Management: Basecamp
+  - Communication: Email, GitHub Issues
+
+Meeting Schedule:
+  - Weekly Standups: Monday 10:00 AM
+  - Progress Reviews: Friday 4:00 PM
 
 Submission Information:
   Final Deadline: April 10, 2026

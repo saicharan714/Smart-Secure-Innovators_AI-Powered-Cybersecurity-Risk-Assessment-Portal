@@ -270,6 +270,10 @@ SmartSecureInnovators_AIRiskAssessmentPortal/
 **Project Manager:** Sai Charan Nagilla  
 **Email:** saicharannagilla714@gmail.com
 
+**Team Members:**
+- **Pranav Dara** — System Architect & Backend Developer | W0879046@myscc.ca
+- **Sandeep Reddy Manthena** — Frontend Developer & Security Specialist | W0874456@myscc.ca
+
 **Collaboration Tools:**
 - 🔗 **GitHub Repository:** [SmartSecureInnovators_AIRiskAssessmentPortal](https://github.com/saicharan714/Smart-Secure-Innovators_AI-Powered-Cybersecurity-Risk-Assessment-Portal)
 - 📅 **Project Management:** Basecamp
