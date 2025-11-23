@@ -362,8 +362,8 @@ Please rate each team member's contribution (1=Minimal, 5=Exceptional):
 
 | Team Member | Planning | Design | Development | Testing | Overall | Comments |
 |-------------|----------|--------|-------------|---------|---------|----------|
-| [Name 1] | ___/5 | ___/5 | ___/5 | ___/5 | ___/5 | [Brief comment] |
-| [Name 2] | ___/5 | ___/5 | ___/5 | ___/5 | ___/5 | [Brief comment] |
+| Pranav Dara | ___/5 | ___/5 | ___/5 | ___/5 | ___/5 | [Brief comment] |
+| Sandeep Reddy Manthena | ___/5 | ___/5 | ___/5 | ___/5 | ___/5 | [Brief comment] |
 | Self | ___/5 | ___/5 | ___/5 | ___/5 | ___/5 | [Brief comment] |
 
 ---
@@ -430,3 +430,29 @@ By signing below, I certify that:
 **Last Updated:** November 23, 2025  
 **Project:** AI-Powered Cybersecurity Risk Assessment Portal  
 **Team:** Smart Secure Innovators
+
+---
+
+## TEAM CONTACT INFORMATION
+
+### Team Members:
+
+**1. Sai Charan Nagilla** — Project Manager & AI/ML Developer
+- **Email:** saicharannagilla714@gmail.com
+- **Role:** Overall project coordination, AI model development, dashboard
+- **GitHub:** saicharan714
+
+**2. Pranav Dara** — System Architect & Backend Developer
+- **Email:** W0879046@myscc.ca
+- **Role:** System architecture, Flask backend API, database design, CI/CD
+- **Expertise:** Backend Development, Cloud Infrastructure, DevOps
+
+**3. Sandeep Reddy Manthena** — Frontend Developer & Security Specialist
+- **Email:** W0874456@myscc.ca
+- **Role:** React frontend development, UI/UX, security implementation, AWS deployment
+- **Expertise:** Frontend Development, UI/UX Design, Cybersecurity, AWS Cloud
+
+### Project Information:
+- **Repository:** https://github.com/saicharan714/Smart-Secure-Innovators_AI-Powered-Cybersecurity-Risk-Assessment-Portal
+- **Duration:** October 10, 2025 - April 10, 2026
+- **Team Size:** 3 developers | **Total Effort:** 520 hours
