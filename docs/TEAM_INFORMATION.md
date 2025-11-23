@@ -49,6 +49,7 @@
 
 ### 2. Pranav Dara
 **Position:** System Architect & Backend Developer  
+**Email:** W0879046@myscc.ca  
 **Role:** Technical Architect, DevOps, QA Lead  
 
 #### Responsibilities:
@@ -87,6 +88,7 @@
 
 ### 3. Sandeep Reddy Manthena
 **Position:** Frontend Developer & Security Specialist  
+**Email:** W0874456@myscc.ca  
 **Role:** UI/UX Developer, Security Officer, DevOps  
 
 #### Responsibilities:

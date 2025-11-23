@@ -133,6 +133,7 @@ SmartSecureInnovators_AIRiskAssessmentPortal/
 
 #### 2. **Pranav Dara** — System Architect & Backend Developer
 - **Role:** System Architecture, Backend API, Database, Testing/QA
+- **Email:** W0879046@myscc.ca
 - **Responsibilities:**
   - Microservices architecture and system design
   - Flask REST API development
@@ -149,6 +150,7 @@ SmartSecureInnovators_AIRiskAssessmentPortal/
 
 #### 3. **Sandeep Reddy Manthena** — Frontend Developer & Security Specialist
 - **Role:** Frontend Development, UI/UX Design, Security, DevOps
+- **Email:** W0874456@myscc.ca
 - **Responsibilities:**
   - React web application development
   - User interface and experience design
